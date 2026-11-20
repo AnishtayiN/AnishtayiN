@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title description">
+  <title id="title">AnishtayiN — Create, Learn, Build</title>
+  <desc id="description">A dark blue and purple GitHub profile banner with glowing accents.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1021"/>
+      <stop offset="0.52" stop-color="#1a1b27"/>
+      <stop offset="1" stop-color="#17152b"/>
+    </linearGradient>
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#c0caf5"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+    <linearGradient id="lineGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="blueGlow">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow">
+      <stop offset="0" stop-color="#bb9af7" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#c0caf5" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="2" y="2" width="1596" height="416" rx="32" fill="url(#background)" stroke="#7aa2f7" stroke-opacity="0.2" stroke-width="2"/>
+  <rect x="2" y="2" width="1596" height="416" rx="32" fill="url(#grid)"/>
+  <circle cx="160" cy="40" r="330" fill="url(#blueGlow)"/>
+  <circle cx="1480" cy="390" r="360" fill="url(#purpleGlow)"/>
+
+  <g fill="#7aa2f7">
+    <circle cx="154" cy="124" r="3" opacity="0.7"/>
+    <circle cx="278" cy="312" r="2" opacity="0.5"/>
+    <circle cx="1350" cy="102" r="2.5" opacity="0.65"/>
+    <circle cx="1434" cy="264" r="3" opacity="0.45"/>
+  </g>
+  <g fill="#bb9af7">
+    <circle cx="222" cy="226" r="2" opacity="0.65"/>
+    <circle cx="1268" cy="330" r="2" opacity="0.65"/>
+    <circle cx="1410" cy="156" r="2" opacity="0.5"/>
+  </g>
+
+  <g fill="none" stroke="#7aa2f7" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity="0.32">
+    <path d="M208 166 L154 210 L208 254"/>
+    <path d="M1392 166 L1446 210 L1392 254" stroke="#bb9af7"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" text-anchor="middle">
+    <rect x="650" y="62" width="300" height="44" rx="22" fill="#7aa2f7" fill-opacity="0.08" stroke="#7aa2f7" stroke-opacity="0.3"/>
+    <text x="800" y="91" fill="#a9b1d6" font-size="17" font-weight="600" letter-spacing="5">GITHUB PROFILE</text>
+    <text x="800" y="226" fill="url(#titleGradient)" font-size="88" font-weight="800" letter-spacing="10">ANISHTAYIN</text>
+    <text x="800" y="290" fill="#a9b1d6" font-size="23" font-weight="500" letter-spacing="7">CREATE  •  LEARN  •  BUILD  •  REPEAT</text>
+  </g>
+
+  <rect x="460" y="334" width="680" height="3" rx="1.5" fill="url(#lineGradient)"/>
+</svg>
