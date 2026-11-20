@@ -63,10 +63,15 @@ A selection of technologies and tools I use and explore.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnishtayiN&bg_color=1a1b27&color=c0caf5&line=7aa2f7&point=bb9af7&area=true&hide_border=true&custom_title=AnishtayiN%27s%20Contribution%20Graph" alt="AnishtayiN's contribution activity graph" width="100%" />
 </div>
 
-## Achievements
+## Featured Projects
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnishtayiN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="AnishtayiN's GitHub trophies" />
+  <a href="https://github.com/AnishtayiN/SetEditPlus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnishtayiN&repo=SetEditPlus&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&show_owner=false" alt="SetEditPlus project card" />
+  </a>
+  <a href="https://github.com/AnishtayiN/pwd-ex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnishtayiN&repo=pwd-ex&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&show_owner=false" alt="pwd-ex project card" />
+  </a>
 </div>
 
 <div align="center">
